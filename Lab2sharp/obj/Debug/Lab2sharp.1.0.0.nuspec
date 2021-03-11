@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab2sharp</id>
+    <version>1.0.0</version>
+    <authors>Lab2sharp</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.runtimeconfig.json" target="lib\netcoreapp3.1\Lab2sharp.runtimeconfig.json" />
+    <file src="C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.dll" target="lib\netcoreapp3.1\Lab2sharp.dll" />
+  </files>
+</package>

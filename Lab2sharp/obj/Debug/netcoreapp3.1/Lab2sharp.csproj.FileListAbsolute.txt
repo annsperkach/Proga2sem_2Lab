@@ -1,0 +1,13 @@
+C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.exe
+C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.deps.json
+C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.runtimeconfig.json
+C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.runtimeconfig.dev.json
+C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.dll
+C:\Users\An-PC\source\repos\Lab2sharp\bin\Debug\netcoreapp3.1\Lab2sharp.pdb
+C:\Users\An-PC\source\repos\Lab2sharp\obj\Debug\netcoreapp3.1\Lab2sharp.csprojAssemblyReference.cache
+C:\Users\An-PC\source\repos\Lab2sharp\obj\Debug\netcoreapp3.1\Lab2sharp.AssemblyInfoInputs.cache
+C:\Users\An-PC\source\repos\Lab2sharp\obj\Debug\netcoreapp3.1\Lab2sharp.AssemblyInfo.cs
+C:\Users\An-PC\source\repos\Lab2sharp\obj\Debug\netcoreapp3.1\Lab2sharp.csproj.CoreCompileInputs.cache
+C:\Users\An-PC\source\repos\Lab2sharp\obj\Debug\netcoreapp3.1\Lab2sharp.dll
+C:\Users\An-PC\source\repos\Lab2sharp\obj\Debug\netcoreapp3.1\Lab2sharp.pdb
+C:\Users\An-PC\source\repos\Lab2sharp\obj\Debug\netcoreapp3.1\Lab2sharp.genruntimeconfig.cache
